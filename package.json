@@ -28,6 +28,7 @@
     "typeorm": "^0.3.11"
   },
   "devDependencies": {
+    "csvtojson": "^2.0.10",
     "jest": "^29.3.1",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20",
