@@ -1,3 +1,5 @@
+transferData.js
+data_folder
 .env
 node_modules/
 db/schema.sql
