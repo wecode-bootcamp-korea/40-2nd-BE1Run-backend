@@ -3,6 +3,7 @@ data_folder
 .env
 node_modules/
 db/schema.sql
+.env.test
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,webstorm,macos,zsh,node,linux,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,vim,webstorm,macos,zsh,node,linux,windows
