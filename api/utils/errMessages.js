@@ -5,7 +5,7 @@ module.exports ={
         message : "KEY_ERROR"
     },
 
-    //USERS
+    //*USERS
     createUserErr : {
         statusCode : 400,
         message : "CANNOT_CREATE_USER"
@@ -14,5 +14,11 @@ module.exports ={
     tokenErr :{
         statusCode : 400,
         message : "NEED_ACCESS_TOKEN"
+    },
+    
+    //*Movies
+    searchMovieErr : {
+        statusCode : 404,
+        message : "CANNOT_SEARCH"
     }
 }
