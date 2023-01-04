@@ -5,6 +5,7 @@ const morgan = require('morgan');
 const routes = require('./api/routes');
 const {globalErrorHandler} = require('./api/utils/error')
 
+
 const createApp = () =>{
     const app = express();
 
