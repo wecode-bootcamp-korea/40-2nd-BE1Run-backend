@@ -2,6 +2,7 @@
 transferData.js
 data_folder
 .env
+.env.test
 node_modules/
 db/schema.sql
 .env.test
